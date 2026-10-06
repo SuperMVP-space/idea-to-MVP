@@ -4,12 +4,14 @@
 
 - Основание: прямой запрос владельца 2026-10-06 инициализировать
   SuperMVP-space/idea-to-MVP и загрузить созданный скилл.
-- Статус: в работе.
+- Статус: завершено.
 - [План](2026-10-06-initial-release/plan.md) ·
   [spec](2026-10-06-initial-release/spec.md) ·
   [фичи](2026-10-06-initial-release/features/INDEX.md).
 - Результат: переносимая версия 0.1.2, инструкции запуска, контур проекта
   и первоначальный commit/push в настроенную ветку main.
+- Evidence: [readback](../Discovery/logs/initial-publication-readback-v02.json),
+  [итог спринта](../Discovery/logs/sprint-results.md).
 
 ## Дальнейшая работа
 
