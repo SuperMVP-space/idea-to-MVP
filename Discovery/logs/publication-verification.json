@@ -1,0 +1,44 @@
+{
+  "version": "0.1.2",
+  "files": [
+    {
+      "path": "skills/vibecodable-idea/agents/openai.yaml",
+      "sha256": "f5a4186a9af5773a3a63a9a758d602803d15895b7ca6b8451b21757651f1e29c",
+      "source_matches": true
+    },
+    {
+      "path": "skills/vibecodable-idea/references/finance.md",
+      "sha256": "d9775c9c2a883729ac1ea470bb83052a5d7c02b946759d224b6d2b3c6a8fa6a3",
+      "source_matches": true
+    },
+    {
+      "path": "skills/vibecodable-idea/references/idea-card.md",
+      "sha256": "9b79025a7d0da24ea2cdd3ba1f568cf179f9f23ad408568e82e4c324bcc0dae9",
+      "source_matches": true
+    },
+    {
+      "path": "skills/vibecodable-idea/references/research.md",
+      "sha256": "ff17ad82de6e90ce3d3b140f04041149a8ce8ff7ee16ba4aa86cacf963c76645",
+      "source_matches": true
+    },
+    {
+      "path": "skills/vibecodable-idea/SKILL.md",
+      "sha256": "b12c441e86a73a42626bcbe0c7759422654960185656e38181e9432e19ced845",
+      "source_matches": true
+    }
+  ],
+  "errors": [],
+  "chat_source_matches": true,
+  "inline_sections": 4,
+  "local_links_resolve": true,
+  "bootstrap_audit": {
+    "profile": "document",
+    "errors": 0,
+    "warnings": 0
+  },
+  "validator": "Skill is valid!",
+  "limits": [
+    "Packaging verification; behavior of the skill is unchanged",
+    "No new live learner or Desktop GUI pilot"
+  ]
+}

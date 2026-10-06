@@ -1,0 +1,5 @@
+* text=auto eol=lf
+
+# Preserve the exact bytes of the audited distribution
+skills/vibecodable-idea/** -text
+docs/chat-instruction.md -text
